@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.apache.ivyde.eclipse.cpcontainer.IVYDE_CONTAINER/?ivyXmlPath=ivy.xml&amp;confs=default%2Cjava6%2Cutest%2Ceclipse&amp;ivySettingsPath=project%3A%2F%2F%2Fivysettings.xml&amp;doRetrieve=true&amp;retrievePattern=lib%2F%5Bartifact%5D-%5Brevision%5D.%5Bext%5D&amp;retrieveSync=false&amp;retrieveConfs=eclipse%2Cutest%2Cjava6%2Cdefault&amp;retrieveTypes=*&amp;acceptedTypes=jar&amp;sourceTypes=source&amp;javadocTypes=javadoc&amp;sourceSuffixes=-source%2C-sources%2C-src&amp;javadocSuffixes=-javadoc%2C-javadocs%2C-doc%2C-docs&amp;alphaOrder=false&amp;resolveInWorkspace=false"/>
+	<classpathentry excluding="**/.svn/*" kind="src" path="test"/>
+	<classpathentry excluding="**/.svn/*|org/red5/server/script/rhino/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/antlr-3.1.3.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/asm-commons-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/bcprov-jdk16-145.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/catalina-6.0.24.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/commons-codec-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/commons-modeler-2.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/commons-pool-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/ehcache-1.6.2.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/groovy-all-1.5.7.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/jasper-6.0.24.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/jasper-el-6.0.24.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/jasper-jdt-6.0.24.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/jaudiotagger-1.0.8.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/javaee-api-5.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/jcl-over-slf4j-1.5.10.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/jruby-complete-1.1.6.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/jruby-engine-1.1.6.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/jul-to-slf4j-1.5.10.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/jython-2.5.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/log4j-over-slf4j-1.5.10.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/logback-classic-0.9.18.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/logback-core-0.9.18.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/mina-core-2.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/mina-integration-beans-2.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/mina-integration-jmx-2.0.0-RC1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/quartz-1.6.5.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/slf4j-api-1.5.10.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/spring-asm-3.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/spring-beans-3.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/spring-context-3.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/spring-context-support-3.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/spring-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/spring-expression-3.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/spring-web-3.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/tomcat-coyote-6.0.24.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/tomcat-juli-slf4j-1.5.0.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="F:/workspace/red5-0.9.1/lib/xmlrpc-2.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
